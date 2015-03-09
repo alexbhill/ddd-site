@@ -2,7 +2,7 @@ body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-
 }
 
 body, html {height: 100%;
-    background-image: url("http://media.tumblr.com/b0c69d8ce18f216f8987b685617fd11c/tumblr_inline_mya5w8sxZc1qc668a.png");
+    background-image: url("http://media.tumblr.com/b0c69d8ce18f216f8987b685617fd11c/tumblr_inline_mya5w8sxZc1qc668a.png") no-repeat center;
 }
 
 .wrapper {box-sizing: border-box; height: 100%; overflow: auto; }
